@@ -1,2 +1,4 @@
-# AprendaGolang
-Estudando material do canal https://www.youtube.com/@AprendaGolang
+# Golang
+Estudando material do canal 
+- https://www.youtube.com/@AprendaGolang
+- https://www.youtube.com/@FullCycle
